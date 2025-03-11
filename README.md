@@ -9,4 +9,4 @@ Google Sheets Clone using HTML,CSS and JS
 * basic formula support
 * go into input mode when user starts typing
 * functions within formula(sum,avg,min,max)
-* handle delete key to delete the contents of cell or cell range(including formulas and dependencies)
+* handle delete key to delete the contents of cell
